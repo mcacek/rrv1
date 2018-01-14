@@ -1,0 +1,12 @@
+name = "rrv1"
+license = "MIT"
+licenselink = "https://github.com/ruthvenrocks/rrv1/blob/master/LICENSE.md"
+description = ""
+homepage = "http://ruthvenrocks.com"
+tags = []
+features = []
+min_version = "0.32.4"
+
+[author]
+  name = "Michael Cacek"
+  homepage = ""
